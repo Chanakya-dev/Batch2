@@ -10,14 +10,11 @@ import java.util.Scanner;
             for (int i =0;i<=count;++i){
                 System.out.println("The count is:" +i);
             }
-            Scanner z = new Scanner(System.in);
-            int a = z.nextInt();
-            while(a<5){
-                System.out.println("The count is:" +a);
-                a++;
+            
+            
     
 
-        }
+        
 
     }
     
