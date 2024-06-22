@@ -9,12 +9,16 @@ public class Subhash_if{
         int age=sc.nextInt();
         System.out.println("entered age"+age);
         
-        if (age>=18){
+        if(age>=18){
             System.out.println("elgible for vote"+age);
         }
+    
+        
         else{
-            System.out.println("not elgible for vote"+age);
+            System.out.print(" not elgible for vote");
         }
-        }
+
     }
+}
+    
 

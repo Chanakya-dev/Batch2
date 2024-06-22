@@ -5,7 +5,7 @@ public class Subhash_for {
         
     
         int i;
-        for (i=1;i<=5;i++){
+        for (i=1;i<=10;i=i+3){
             System.out.println("virat:"+i);
         }
     }
