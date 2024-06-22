@@ -3,7 +3,7 @@ public class Prashanth_while {
         int i = 0 ;
         while(i < 10){
             
-            if(i>10){
+            if(i < 10){
                 System.out.println("Out of loop");
             }
             else{
