@@ -7,7 +7,7 @@ public class Prashanth_ifelse {
         if(age < 18){
             System.out.println("Minnor");
         }
-        else if (age > 18 && age < 60  ){
+        else if (age >= 18  && age < 60 ){
             System.out.println("Major");
         }
         else{
